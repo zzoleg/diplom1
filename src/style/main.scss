@@ -763,8 +763,8 @@
         height: 70px;
     }
     .header-content-logo {
-        height: 37px - 5px*37/37;
-        width: 34px - 5px*34/37;
+        height: 32px;
+        width: 29.4px;
     }
     .header-content-name-text {
         font-size: 25px;
@@ -772,19 +772,19 @@
     .main-top-content-title {
         font-size: 45px;
         line-height: 40px;
-        padding-top: calc(218px - 218px*(1440 - 300)/1440 - 60px);
-        padding-bottom: calc(35px - 35px*(1440 - 300)/1440);
-        width: calc(600px - 600px*(1440 - 300)/1440);
+        padding-top: -14.6px;
+        padding-bottom: 7.3px;
+        width: 125px;
     }
     .main-top-content-subtitle {
-        padding-top: calc(40px - 40px*(1440 - 300)/1440);
+        padding-top: 8.3px;
     }
     .main-top-content-subtitle-p {
-        padding-top: calc(40px - 40px*(1440 - 300)/1440);
+        padding-top: 8.3px;
         font-size: 18px;
     }
     .main-top-content-button {
-        margin-top: calc(62px - 62px*(1440 - 300)/1440 - 10px);
+        margin-top: 3px;
     }
 
     .main-top-content-button-link-p {
@@ -792,20 +792,20 @@
     }
 
     .main-top-content-pointer {
-        margin-top: calc(164.5px - 160px);
+        margin-top: 4.5px;
         margin-bottom: 0px;
     }
     .main-top-content-button {
-        width: calc(182px - 182/182*80px);
-        height: calc(60px - 60/182*80px);
+        width: 102px;
+        height: 33.6px;
     }
     .main-about-title { 
-        padding-top: calc(80px - 80px*(1440 - 300)/1440);
+        padding-top: 16.7px;
         font-size: 30px;
     }
     .main-about-subtitle {
-        padding-top: calc(35px - 35px*(1440 - 300)/1440);
-        padding-bottom: calc(110px - 110px*(1440 - 300)/1440);
+        padding-top: 7.3px;
+        padding-bottom: 22.9px;
     } 
 
    
@@ -941,30 +941,30 @@
     .main-top-content-title {
         font-size: 50px;
         line-height: 40px;
-        padding-top: calc(218px - 218px*(1440 - 455)/1440 - 60px);
-        padding-bottom: calc(35px - 35px*(1440 - 455)/1440);
-        width: calc(600px - 600px*(1440 - 455)/1440);
+        padding-top: 8.9px;
+        padding-bottom: 11px;
+        width: 189.6px;
     }
     .main-top-content-subtitle {
-        padding-top: calc(40px - 40px*(1440 - 455)/1440);
+        padding-top: 12.6px;
     }
     .main-top-content-button {
-        margin-top: calc(62px - 62px*(1440 - 455)/1440);
+        margin-top: 19.6px;
     }
     .main-top-content-pointer {
-        margin-top: calc(164.5px - 150px);
-        margin-bottom: calc(90px - 80px);
+        margin-top: 14.5px;
+        margin-bottom: 10px);
     }
     .main-top-content-button {
-        width: calc(182px - 182/182*50px);
-        height: calc(60px - 60/182*50px);
+        width: 132px;
+        height: 43.5px;
     }
     .main-about-title { 
-        padding-top: calc(80px - 80px*(1440 - 455)/1440);
+        padding-top: 25.3px;
     }
     .main-about-subtitle {
-        padding-top: calc(35px - 35px*(1440 - 455)/1440);
-        padding-bottom: calc(110px - 110px*(1440 - 455)/1440);
+        padding-top: 11px;
+        padding-bottom: 34.8px;
     } 
     .main-features-items-feature:first-child {
         padding-left: 0px;
@@ -994,30 +994,30 @@
     .main-top-content-title {
         font-size: 70px;
         line-height: 50px;
-        padding-top: calc(218px - 218px*(1440 - 768)/1440 - 30px);
-        padding-bottom: calc(35px - 35px*(1440 - 768)/1440);
-        width: calc(600px - 600px*(1440 - 768)/1440);
+        padding-top: 116.2;
+        padding-bottom: 18.7;
+        width: 320px;
     }
     .main-top-content-subtitle {
-        padding-top: calc(40px - 40px*(1440 - 768)/1440);
+        padding-top: 21.3px;
     }
     .main-top-content-button {
-        margin-top: calc(62px - 62px*(1440 - 768)/1440);
+        margin-top: 33px;
     }
     .main-top-content-pointer {
-        margin-top: calc(164.5px - 110px);
-        margin-bottom: calc(90px - 70px);
+        margin-top: 54.5px;
+        margin-bottom: 20px;
     }
     .main-top-content-button {
-        width: calc(182px - 182/182*30px);
-        height: calc(60px - 60/182*30px);
+        width: 152px;
+        height: 50.1px;
     }
     .main-about-title { 
-        padding-top: calc(80px - 80px*(1440 - 768)/1440);
+        padding-top: 42.7;
     }
     .main-about-subtitle {
-        padding-top: calc(35px - 35px*(1440 - 768)/1440);
-        padding-bottom: calc(110px - 110px*(1440 - 768)/1440);
+        padding-top: 18.7px;
+        padding-bottom: 58.7px;
     } 
     .main-features-items-feature {
         width: 230px;
@@ -1181,19 +1181,19 @@
 
     .main-top-content-title {
         font-size: 100px;
-        padding-top: calc(218px - 218px*(1440 - 1024)/1440);
-        padding-bottom: calc(35px - 35px*(1440 - 1024)/1440);
-        width: calc(600px - 600px*(1440 - 1024)/1440);
+        padding-top: 155px;
+        padding-bottom: 24.9px;
+        width: 426.7px;
     }
     .main-top-content-subtitle {
-        padding-top: calc(40px - 40px*(1440 - 1024)/1440);
+        padding-top: 28.4px;
     }
     .main-top-content-button {
-        margin-top: calc(62px - 62px*(1440 - 1024)/1440);
+        margin-top: 44px;
     }
     .main-top-content-pointer {
-        margin-top: calc(164.5px - 80px);
-        margin-bottom: calc(90px - 45px);
+        margin-top: 84.5px ;
+        margin-bottom: 45px;
     }
     .main-features-items-feature {
         width: 280px;
@@ -1264,7 +1264,7 @@
         padding-left: 15px;
         padding-right: 15px;
     }
-    
+
     .main-works-pictures-picture:nth-child(2n+2) {
         padding-right: 15px;
         padding-left: 15px;
